@@ -42,7 +42,7 @@ p {
 }
 
 #press a {
-  border: ;
+  border: 5px #ccc solid;
 }
 
 header:hover {
