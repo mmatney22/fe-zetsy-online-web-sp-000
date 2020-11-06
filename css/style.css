@@ -22,6 +22,7 @@ body {
 
 h1 {
   font-family: 'Baskerville', serif;
+  font-weight: normal;
   color: rgb(152,173,166);
   font-size: 5em;
   border-bottom: 1px solid #ccc;
