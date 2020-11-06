@@ -49,7 +49,7 @@ p {
 	border: 5px rgb(111,127,122) solid;
 }
 
-header:hover {
+header h1:hover {
 	color: rgb(111,127,122);
 }
 
