@@ -43,19 +43,16 @@ p {
 
 /*////////// Section Styles //////////*/
 header a {
-  color: rgb(152,173,166);
+	color: rgb(152,173,166);
+	text-decoration: none;
 }
 
-#press a img {
-  border: 5px #ccc solid;
-}
-
-#press img:hover {
-	border: 5px rgb(111,127,122) solid;
+header a:hover {
+	color: rgb(111,127,122);
 }
 
 #featured img {
-  border: 5px solid rgb(152, 173, 166);
+	border: 5px rgb(152,173,166) solid;
 }
 
 #featured a {
@@ -64,12 +61,27 @@ header a {
 }
 
 #featured a:hover {
-  text-decoration: underline;
+	text-decoration: underline;
 }
 
-header a:hover {
-	color: rgb(111,127,122);
+#press {
+	margin-bottom: 20px;
 }
+
+#press img {
+	border: 5px #ccc solid;
+	padding: 1px;
+}
+
+#press img:hover {
+	border: 5px rgb(111,127,122) solid;
+}
+
+footer {
+	text-align: right;
+	background: #fff;
+}
+
 
 footer {
   font-size: 12px;
