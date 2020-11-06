@@ -62,7 +62,7 @@ p {
   text-decoration: underline;
 }
 
-header h1:hover {
+header a:hover {
 	color: rgb(111,127,122);
 }
 
