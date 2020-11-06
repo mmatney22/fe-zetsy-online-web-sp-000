@@ -36,3 +36,7 @@ p {
   color: #555;
   font-size: 1em;
 }
+
+header a:hover {
+	color: rgb(111,127,122);
+}
