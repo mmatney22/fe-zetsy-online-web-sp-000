@@ -41,6 +41,10 @@ p {
   font-size: 1em;
 }
 
+#press a {
+  border: ;
+}
+
 header:hover {
 	color: rgb(111,127,122);
 }
